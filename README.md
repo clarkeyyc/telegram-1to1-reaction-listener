@@ -75,7 +75,7 @@ note the `api_id` and `api_hash`.
 ### 2. Clone, install, configure
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/telegram-bot-reaction-listener-mtproto.git
+git clone https://github.com/clarkeyyc/telegram-bot-reaction-listener-mtproto.git
 cd telegram-bot-reaction-listener-mtproto
 pip install -r requirements.txt
 
